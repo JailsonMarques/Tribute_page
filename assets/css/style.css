@@ -40,11 +40,16 @@ article a {
     color: #ecf0f1;
 }
 
-.news_resume {
+.news_resume p {
     margin-top: 150px;
     margin-left: 25px;
     margin-right: 25px;
     font-size: 25px;
+}
+
+p::first-letter {
+    font-size: 50px;
+    font-weight: bold;
 }
 
 
