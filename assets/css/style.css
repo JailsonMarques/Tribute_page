@@ -104,6 +104,11 @@ footer {
         flex-direction: row;
     }
 
+    footer {
+        height: auto;
+        width: 100%;
+    }
+
     .container {
         flex-direction: column;
     }
