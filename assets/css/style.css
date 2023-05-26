@@ -100,8 +100,11 @@ footer {
         display: inline-block;
     }
 
+
     .title h1 {
         font-size: 35px;
+        text-align: center;
+
     }
 
     .news_resume p {
